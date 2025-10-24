@@ -113,9 +113,6 @@ All API responses use JSON format with proper authentication and error handling.
 ## 🧍‍♂️ Team Members
 
 * **Amala Sojin Aldo. S**
-* [Add your teammates’ names here]
-
-**Faculty Guide:** [Faculty Name]
 **Department:** Computer Science and Engineering
 **College:** Jayamatha Engineering College
 
